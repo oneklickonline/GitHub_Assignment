@@ -11,25 +11,27 @@
 ### Pull request: How to Create Pull Request
 ### Conclusion
 
-## Intoduction
+### Intoduction
+
+GitHub is one of the best sites for sharing ideas, creating with other developers, and realizing visionary innovations, with over 83 million users. There is an entire system and set of tools on GitHub that help you do it even better, whether you're visualizing data, creating software, a new game, or writing about new technology.
 
 In this topic, we will talk about Git and GitHub, Their differences, why you need GitHub and how to clone with GitHub, how to make a pull request, and how to commit on GitHub, finally we discuss GitHub desktop and GitHub CLI. 
 
-## What is Git:
-Git is a tool used by developers to manage source code. It is free and open source and can be used to handle small and large projects so efficiently. Git is used to tracking changes in source code. And it allows developers from different ends to work together on a particular project.
+### What is Git:
+Git is a tool used by developers to manage source code. It is free and open source and can be used to handle small and large projects so efficiently. [Git](https://git-scm.com/) is used to tracking changes in source code. And it allows developers from different ends to work together on a particular project.
 
-## What is GitHub:
-GitHub is an online platform used by software developers for tracking, storing, and collaborating with other software developers on a software project. GitHub is one of the most frequently used platforms for software developers because it is free, easy open-source software that allows multiple developers to work on the same project irrespective of location. 
+### What is GitHub:
+GitHub is an online platform used by software developers for tracking, storing, and collaborating with other software developers on a software project. [GitHub](https://github.com/) is one of the most frequently used platforms for software developers because it is free, easy open-source software that allows multiple developers to work on the same project irrespective of location. 
 
-## Why GitHub:
-Below we will be highlighting the importance of GitHub, why we recommend it, and why you need GitHub as a software developer, an employer, or an employee.
+### Why GitHub:
+Below we will be highlighting the importance of GitHub, why we recommend it, and why you need [GitHub](https://github.com/) as a software developer, an employer, or an employee.
 - GitHub is free and open-source.
 -	GitHub makes it easier for software developers to make excellent 	      			documentation.
 -	GitHub uses text editors like markdown to write formatted documents.
 - 	GitHub is a repository that allows you to showcase your work to the public, which makes it one of the largest coding communities.
 -	GitHub uses cloud hosting, which makes it faster and can connect to platforms like Amazon or Google Cloud.
 
-## Git vs. GitHub:
+### Git vs. GitHub:
 Someone might be asking about the difference between Git and GitHub. Below we shall discuss it with the use of a table.
 
 
@@ -48,13 +50,13 @@ Someone might be asking about the difference between Git and GitHub. Below we sh
 | 9 | Competes with mercurial, subversion IBM | Competes with Atlassian bit bucket and Gitlab	|
 | 10 | Open-source licensed | Includes a free tier and pay to use tires	|
 
-## GitHub Desktop vs. GitHub CLI
+### GitHub Desktop vs. GitHub CLI
 
 Tools that facilitate communication and cooperation on GitHub include GitHub Desktop and GitHub CLI. With the help of these tools, you can carry out tasks like committing changes, generating pull requests, and performing operations like pushing, pulling, and cloning for remote repositories.
 
 When constructing different software technologies using these tools, there is a lot more power and freedom.
 
-According to GloriaOkeke:
+According to [GloriaOkeke](https://github.com/GloriaOkeke/Introduction-to-GitHub/blob/master/project.md):
 
 | GitHub Desktop | GitHub CLI |
 |--|--|
@@ -66,7 +68,7 @@ According to GloriaOkeke:
 
 ### How to Perform Various Task in GitHub
 
-## I. Cloning
+### I. Cloning
 
 Clone is a  means of duplicating your repository (your project) from GitHub to your local computer,  which can be pushed back to your GitHub after making necessary changes.
 
@@ -74,7 +76,7 @@ Clone is a  means of duplicating your repository (your project) from GitHub to y
 ### 1. Login to your GitHub account through [github.com](github.io)
 ### 2. Locate your repositories
   
-  ![IMAGE](https://waresdrawltd.com/wp-content/uploads/2022/11/clone-0.png)
+  ![IMAGE](https://waresdrawltd.com/wp-content/uploads/2022/11/clone001.png)
 
 ### 3. Select the repository you want to clone
 
@@ -104,7 +106,7 @@ Clone is a  means of duplicating your repository (your project) from GitHub to y
 
 ![IMAGE](https://waresdrawltd.com/wp-content/uploads/2022/11/clone-3.png)
 
-## II. Commit
+### II. Commit
 Commit is a chnage made to a file on a project. Commit keeps track of changes to files on your branch. Git assigns a hash ID that identifies the specific changes made on a repository and who created the changes?
 
 ### How to commit changes on GitHub
@@ -139,12 +141,12 @@ Your terminal opens at the bottom page of your vscode
  ![IMAGE](https://waresdrawltd.com/wp-content/uploads/2022/11/pull-request3-1.png)
 This shows your changes was successfully commited to the GitHub repository.
   
-## Pull Request
+### Pull Request
 
 Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is open, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch. 
 Retrieved from https://docs.github.com/en/pull-requests.
 
-## How to create a pull request:
+### How to create a pull request:
 ### 1. On the repository that was commited click on "compare & pull request"
 ### 2. check your changes if they are what you commited
 ### 3. Leave a comment to describe the changes made 
@@ -161,6 +163,5 @@ If your pull request was successful you should see a result like the image below
 
  And once the change is approved, the pull request source branch will automatically be merged into the main branch
 
-## Conclusion:
+### Conclusion:
 We have treated the meaning of GitHub, how to perform some tasks on GitHub, and its importance to developers, employers, and employees  because of its large community capable of networking millions of developers to contribute to open source project 
-
